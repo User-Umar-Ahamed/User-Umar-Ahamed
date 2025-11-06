@@ -14,33 +14,51 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Student  
-- 💻 Focus: Cybersecurity, Digital Forensics, Ethical Hacking and More...  
-- ⚙️ Building skills  
-- 🧠 Training on TryHackMe & Hack The Box  
+Aspiring cybersecurity analyst with a passion for defensive security, digital forensics, and ethical hacking. Focused on building secure environments, detecting threats, and analyzing system vulnerabilities.Driven by curiosity, attention to detail, and a goal to contribute to creating more resilient and secure digital systems.
 
 ---
 
-## 🚀 Languages & Tools
+## 🚀 Languages, Tools & Platforms
 
+### 💻 Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Batch%20Scripting-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+</div>
+
+---
+
+### 🧰 Tools
+<div align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-00549C?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termius-0099CC?style=for-the-badge&logo=termius&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </div>
 
 ---
 
+### ☁️ Platforms & Operating Systems
+<div align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+</div>
+
+---
+# 🧑‍💻 Profile Viewers
 <!-- Profile Viewer -->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Cyber-Samurai-117.Cyber-Samurai-117" />
 </div>
 
-## 📊 GitHub Stats
+---
 
 ## 📊 GitHub Stats
 
@@ -57,7 +75,7 @@
   <a href="https://linkedin.com/in/umar-ahamed-25b713285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:Brothersahamed26@gmail.com" target="_blank">
+  <a href="mailto:umarahamed6564@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/umar_._ahamed/" target="_blank">
