@@ -38,6 +38,8 @@ Aspiring cybersecurity analyst with a passion for defensive security, digital fo
   <img src="https://img.shields.io/badge/Wazuh-00549C?style=for-the-badge&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/Termius-0099CC?style=for-the-badge&logo=termius&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suricata-A70000?style=for-the-badge&logo=suricata&logoColor=white" />
 </div>
 
 ---
@@ -49,6 +51,7 @@ Aspiring cybersecurity analyst with a passion for defensive security, digital fo
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
